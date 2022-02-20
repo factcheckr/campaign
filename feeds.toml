@@ -1,8 +1,0 @@
-[campaigns]
-title = "빠띠 캠페인즈"
-url = "https://campaigns.kr/campaigns"
-entrySelector = "div.card-columns div.card.mb-4"
-titleSelector = "div.card-body a h5.card-title.overflow-hidden.text-dark"
-linkSelector = "div.card-body a"
-imageSelector = "div.card-image a img"
-waitUntil = "networkidle"
