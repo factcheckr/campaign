@@ -4,33 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 18:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["녹조 핀 4대강 vs 4대강 재자연화"  당신의 선택은? (빠띠 캠페인즈)]]></title>
-            <link>https://campaigns.kr/campaigns/592</link>
-            <guid>https://campaigns.kr/campaigns/592</guid>
-            <pubDate>Thu, 24 Feb 2022 15:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/592"><img src="/assets/default-image-4b04d78f3add6d4ae8d7ea99b7d5ab9fcb9a47f8e9836fe6f700705850320d49.png">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/592"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-"녹조 핀 4대강 vs 4대강 재자연화"  당신의 선택은?
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="0" class="progress-bar" role="progressbar" style="width: 0%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted">
-0명 이상 참여
-</small>
-<small class="text-muted">0% 달성</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://campaigns.kr/assets/default-image-4b04d78f3add6d4ae8d7ea99b7d5ab9fcb9a47f8e9836fe6f700705850320d49.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[한살림 기후밥상챌린지] 기후침묵, 우리 '밥상'에서 바꿔 볼래요? (feat. 먹거리돌봄 무료기부) (빠띠 캠페인즈)]]></title>
             <link>https://campaigns.kr/campaigns/591</link>
@@ -502,6 +478,30 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/548/md_05a7ccad5c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[약물 오남용 금지 캠페인 (이화여자고등학교 1학년 인반) (빠띠 캠페인즈)]]></title>
+            <link>https://campaigns.kr/campaigns/547</link>
+            <guid>https://campaigns.kr/campaigns/547</guid>
+            <pubDate>Thu, 24 Feb 2022 18:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/547"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/547/md_608576e825.jpeg">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/547"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+약물 오남용 금지 캠페인 (이화여자고등학교 1학년 인반)
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="31" class="progress-bar" role="progressbar" style="width: 31%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted">
+30명 이상 참여
+</small>
+<small class="text-muted">31% 달성</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/547/md_608576e825.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
