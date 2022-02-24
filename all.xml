@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-2명 이상 참여
+5명 이상 참여
 </small>
 <small class="text-muted">0% 달성</small>
 </div>
@@ -94,7 +94,7 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted count">
-100건 이상 참여
+200건 이상 참여
 </small>
 </div>
 </div>]]></content:encoded>
