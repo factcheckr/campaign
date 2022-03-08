@@ -4,7 +4,7 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 11:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 12:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,13 +254,13 @@ No War in Ukraine
 2022 페미니스트 주권자 행동 10만 서명
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="28" class="progress-bar" role="progressbar" style="width: 28%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="29" class="progress-bar" role="progressbar" style="width: 29%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-28000명 이상 참여
+29000명 이상 참여
 </small>
-<small class="text-muted">28% 달성</small>
+<small class="text-muted">29% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/574/md_66ed0e3865.jpg" length="0" type="image/jpg"/>
