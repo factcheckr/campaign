@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 00:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,7 +196,7 @@ No War in Ukraine
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/579/md_5f6fda28d6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[한살림 기후밥상챌린지] 참여 주소(URL) 변경 알림 (빠띠 캠페인즈)]]></title>
+            <title><![CDATA[참여 주소(URL) 변경 알림 (빠띠 캠페인즈)]]></title>
             <link>https://campaigns.kr/campaigns/578</link>
             <guid>https://campaigns.kr/campaigns/578</guid>
             <pubDate>Sun, 20 Feb 2022 11:43:57 GMT</pubDate>
@@ -205,7 +205,7 @@ No War in Ukraine
 </a></div>
 <div class="card-body">
 <a href="/campaigns/578"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-[한살림 기후밥상챌린지] 참여 주소(URL) 변경 알림
+참여 주소(URL) 변경 알림
 </h5>
 </a><div class="progress my-2">
 <div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
