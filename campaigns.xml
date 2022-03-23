@@ -4,9 +4,32 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🌎지구를 위한 한시간 - 불은 끄고, 마음을 켜요]]></title>
+            <link>https://campaigns.kr/campaigns/599</link>
+            <guid>https://campaigns.kr/campaigns/599</guid>
+            <pubDate>Wed, 23 Mar 2022 08:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/599"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/599/md_0e15d3a02d.jpg">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/599"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+🌎지구를 위한 한시간 - 불은 끄고, 마음을 켜요
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted count">
+1건 이상 참여
+</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/599/md_0e15d3a02d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No War in Ukraine]]></title>
             <link>https://campaigns.kr/campaigns/595</link>
@@ -478,29 +501,6 @@ No War in Ukraine
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/552/md_a4d4cf6593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[춘천도시숲데이터] 은행열매 상습 낙하지역을 공유해주세요!]]></title>
-            <link>https://campaigns.kr/campaigns/550</link>
-            <guid>https://campaigns.kr/campaigns/550</guid>
-            <pubDate>Sun, 20 Feb 2022 11:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/550"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/550/md_c99bfea0b9.jpg">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/550"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-[춘천도시숲데이터] 은행열매 상습 낙하지역을 공유해주세요!
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted count">
-1건 이상 참여
-</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/550/md_c99bfea0b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
