@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 05:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 06:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -347,13 +347,13 @@ No War in Ukraine
 [#이중병뚜껑out] 병뚜껑 재활용 방해하는 '이중 병뚜껑'을 교체해주세요!
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="154" class="progress-bar" role="progressbar" style="width: 154%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="155" class="progress-bar" role="progressbar" style="width: 155%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 1000명 이상 참여
 </small>
-<small class="text-muted">154% 달성</small>
+<small class="text-muted">155% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/570/md_0a5812bafe.png" length="0" type="image/png"/>
