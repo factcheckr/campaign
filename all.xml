@@ -4,9 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 00:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 02:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[초록상상 4월 회원실천프로젝트] 1시간 소등 인증샷 (빠띠 캠페인즈)]]></title>
+            <link>https://campaigns.kr/campaigns/603</link>
+            <guid>https://campaigns.kr/campaigns/603</guid>
+            <pubDate>Mon, 04 Apr 2022 02:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/603"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/603/md_48c33b3e52.png">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/603"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+[초록상상 4월 회원실천프로젝트] 1시간 소등 인증샷
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted count">
+1건 이상 참여
+</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/603/md_48c33b3e52.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[{장기♡기증}-누군가에게는 희망이고 새로운 시작 ~ (빠띠 캠페인즈)]]></title>
             <link>https://campaigns.kr/campaigns/601</link>
@@ -477,29 +500,6 @@ No War in Ukraine
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/557/md_5714e9841a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한살림 북서울지부를 위한 실천 약속 인증샷 모음 📸 (빠띠 캠페인즈)]]></title>
-            <link>https://campaigns.kr/campaigns/554</link>
-            <guid>https://campaigns.kr/campaigns/554</guid>
-            <pubDate>Sun, 20 Feb 2022 11:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/554"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/554/md_4979000630.png">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/554"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-한살림 북서울지부를 위한 실천 약속 인증샷 모음 📸
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted count">
-20건 이상 참여
-</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/554/md_4979000630.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
