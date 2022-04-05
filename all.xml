@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 05:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 06:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,7 +188,7 @@ No War in Ukraine
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted count">
-400건 이상 참여
+500건 이상 참여
 </small>
 </div>
 </div>]]></content:encoded>
