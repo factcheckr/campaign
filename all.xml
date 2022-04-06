@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 12:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 13:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -443,13 +443,13 @@ No War in Ukraine
 제대로 된 종이팩 재활용 체계를 마련하라! 
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="45" class="progress-bar" role="progressbar" style="width: 45%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="46" class="progress-bar" role="progressbar" style="width: 46%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 4000명 이상 참여
 </small>
-<small class="text-muted">45% 달성</small>
+<small class="text-muted">46% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/558/md_fe9a137a47.jpg" length="0" type="image/jpg"/>
