@@ -4,7 +4,7 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 09:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 10:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,13 @@
 강동구 주민들의 소중한 문화공간 ‘상상나루래’를 지켜주세요!
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="0" class="progress-bar" role="progressbar" style="width: 0%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="1" class="progress-bar" role="progressbar" style="width: 1%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-3명 이상 참여
+6명 이상 참여
 </small>
-<small class="text-muted">0% 달성</small>
+<small class="text-muted">1% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/607/md_248a15827d.png" length="0" type="image/png"/>
