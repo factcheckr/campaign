@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 07:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://campaigns.kr/campaigns/607</guid>
             <pubDate>Tue, 12 Apr 2022 07:07:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/607"><img src="/assets/default-image-4b04d78f3add6d4ae8d7ea99b7d5ab9fcb9a47f8e9836fe6f700705850320d49.png">
+<a href="/campaigns/607"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/607/md_248a15827d.png">
 </a></div>
 <div class="card-body">
 <a href="/campaigns/607"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
@@ -24,12 +24,12 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-1명 이상 참여
+2명 이상 참여
 </small>
 <small class="text-muted">0% 달성</small>
 </div>
 </div>]]></content:encoded>
-            <enclosure url="https://campaigns.kr/assets/default-image-4b04d78f3add6d4ae8d7ea99b7d5ab9fcb9a47f8e9836fe6f700705850320d49.png" length="0" type="image/png"/>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/607/md_248a15827d.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[패션 기업이 '재고와 반품을 폐기하는 행위를 전면 금지하는 법안’을 만들어주세요! (빠띠 캠페인즈)]]></title>
@@ -467,13 +467,13 @@ No War in Ukraine
 한국에는 그런 곳이 있습니다.                                                           
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="58" class="progress-bar" role="progressbar" style="width: 58%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="59" class="progress-bar" role="progressbar" style="width: 59%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 5000명 이상 참여
 </small>
-<small class="text-muted">58% 달성</small>
+<small class="text-muted">59% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/560/md_a70e84bad4.png" length="0" type="image/png"/>
