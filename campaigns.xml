@@ -4,9 +4,32 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다시, 일상] 일상 속 행복을 찾아서 🌷]]></title>
+            <link>https://campaigns.kr/campaigns/614</link>
+            <guid>https://campaigns.kr/campaigns/614</guid>
+            <pubDate>Wed, 20 Apr 2022 05:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/614"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/614/md_88efb33a42.jpg">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/614"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+[다시, 일상] 일상 속 행복을 찾아서 🌷
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted count">
+3건 이상 참여
+</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/614/md_88efb33a42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지속가능한 의생활 캠페인, 21%파티!]]></title>
             <link>https://campaigns.kr/campaigns/613</link>
@@ -475,30 +498,6 @@ No War in Ukraine
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/570/md_0a5812bafe.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생활동반자법을 대선 공통 공약으로! 각당 대통령 후보에게 2022개의 서명 전달하기📜]]></title>
-            <link>https://campaigns.kr/campaigns/565</link>
-            <guid>https://campaigns.kr/campaigns/565</guid>
-            <pubDate>Sun, 20 Feb 2022 11:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/565"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/565/md_2a68921c07.png">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/565"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-생활동반자법을 대선 공통 공약으로! 각당 대통령 후보에게 2022개의 서명 전달하기📜
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="4" class="progress-bar" role="progressbar" style="width: 4%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted">
-100명 이상 참여
-</small>
-<small class="text-muted">4% 달성</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/565/md_2a68921c07.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
