@@ -4,7 +4,7 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 00:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 02:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-3명 이상 참여
+4명 이상 참여
 </small>
 <small class="text-muted">0% 달성</small>
 </div>
@@ -48,7 +48,7 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted count">
-3건 이상 참여
+10건 이상 참여
 </small>
 </div>
 </div>]]></content:encoded>
@@ -329,7 +329,7 @@ No War in Ukraine
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted count">
-800건 이상 참여
+900건 이상 참여
 </small>
 </div>
 </div>]]></content:encoded>
