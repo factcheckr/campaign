@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 06:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 07:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-4명 이상 참여
+7명 이상 참여
 </small>
 <small class="text-muted">0% 달성</small>
 </div>
