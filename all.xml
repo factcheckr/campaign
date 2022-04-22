@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 07:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,13 @@
 쓰레기 문제 해결에 진심이라면, 새 정부는 1회용품을 규제하라
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="112" class="progress-bar" role="progressbar" style="width: 112%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="116" class="progress-bar" role="progressbar" style="width: 116%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 1000명 이상 참여
 </small>
-<small class="text-muted">112% 달성</small>
+<small class="text-muted">116% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/617/md_22209ad120.png" length="0" type="image/png"/>
@@ -99,6 +99,30 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/610/md_b3eb671f83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후정의 도시, 약속해 주세요! (빠띠 캠페인즈)]]></title>
+            <link>https://campaigns.kr/campaigns/608</link>
+            <guid>https://campaigns.kr/campaigns/608</guid>
+            <pubDate>Fri, 22 Apr 2022 07:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/608"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/608/md_e0e2db3cbc.png">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/608"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+기후정의 도시, 약속해 주세요!
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="0" class="progress-bar" role="progressbar" style="width: 0%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted">
+6명 이상 참여
+</small>
+<small class="text-muted">0% 달성</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/608/md_e0e2db3cbc.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[강동구 주민들의 소중한 문화공간 ‘상상나루래’를 지켜주세요! (빠띠 캠페인즈)]]></title>
@@ -475,29 +499,6 @@ No War in Ukraine
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/574/md_66ed0e3865.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 대선 청년공약배달 「여기요!」 (빠띠 캠페인즈)]]></title>
-            <link>https://campaigns.kr/campaigns/571</link>
-            <guid>https://campaigns.kr/campaigns/571</guid>
-            <pubDate>Sun, 20 Feb 2022 11:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/571"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/571/md_f4b297e6cb.jpg">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/571"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-20대 대선 청년공약배달 「여기요!」
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted count">
-100건 이상 참여
-</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/571/md_f4b297e6cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
