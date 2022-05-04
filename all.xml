@@ -4,9 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 00:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 02:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린이날 100주년 기념 캠페인_놀 권리 증진 인증샷 (빠띠 캠페인즈)]]></title>
+            <link>https://campaigns.kr/campaigns/631</link>
+            <guid>https://campaigns.kr/campaigns/631</guid>
+            <pubDate>Wed, 04 May 2022 02:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/631"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/631/md_d443a564b3.png">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/631"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+어린이날 100주년 기념 캠페인_놀 권리 증진 인증샷
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted count">
+6건 이상 참여
+</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/631/md_d443a564b3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["생태계의 보고, 철새들의 천국" 공릉천 훼손 저지_ 시민의 힘으로 지켜주세요 !!! (빠띠 캠페인즈)]]></title>
             <link>https://campaigns.kr/campaigns/628</link>
@@ -475,30 +498,6 @@ No War in Ukraine
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/584/md_194768cbb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울기후위기비상행동] 대선 후보자들에게 기후위기 대응 5개 당연한 정책을 요구합니다 (빠띠 캠페인즈)]]></title>
-            <link>https://campaigns.kr/campaigns/579</link>
-            <guid>https://campaigns.kr/campaigns/579</guid>
-            <pubDate>Tue, 03 May 2022 02:54:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/579"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/579/md_5f6fda28d6.jpeg">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/579"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-[서울기후위기비상행동] 대선 후보자들에게 기후위기 대응 5개 당연한 정책을 요구합니다
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="22" class="progress-bar" role="progressbar" style="width: 22%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted">
-2000명 이상 참여
-</small>
-<small class="text-muted">22% 달성</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/579/md_5f6fda28d6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
