@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 02:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,7 +364,7 @@ No War in Ukraine
             <guid>https://campaigns.kr/campaigns/594</guid>
             <pubDate>Fri, 25 Feb 2022 09:05:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/594"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/594/md_30242e61fb.png">
+<a href="/campaigns/594"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/594/md_05fa5c6326.png">
 </a></div>
 <div class="card-body">
 <a href="/campaigns/594"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
@@ -380,7 +380,7 @@ No War in Ukraine
 <small class="text-muted">52% 달성</small>
 </div>
 </div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/594/md_30242e61fb.png" length="0" type="image/png"/>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/594/md_05fa5c6326.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[장애인 이동권, 혐오가 아닌 응원으로 함께해요! (빠띠 캠페인즈)]]></title>
