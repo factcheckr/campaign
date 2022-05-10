@@ -4,7 +4,7 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 06:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-0명 이상 참여
+1명 이상 참여
 </small>
 <small class="text-muted">0% 달성</small>
 </div>
@@ -255,13 +255,13 @@
 패션 기업이 '재고와 반품을 폐기하는 행위를 전면 금지하는 법안’을 만들어주세요! 
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="26" class="progress-bar" role="progressbar" style="width: 26%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="27" class="progress-bar" role="progressbar" style="width: 27%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 200명 이상 참여
 </small>
-<small class="text-muted">26% 달성</small>
+<small class="text-muted">27% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/604/md_72bfdc21de.png" length="0" type="image/png"/>
