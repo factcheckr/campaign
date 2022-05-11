@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 06:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 07:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://campaigns.kr/campaigns/636</guid>
             <pubDate>Tue, 10 May 2022 12:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/636"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/636/md_b186636000.jpg">
+<a href="/campaigns/636"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/636/md_691d80d9d7.png">
 </a></div>
 <div class="card-body">
 <a href="/campaigns/636"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
@@ -24,11 +24,11 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted count">
-2건 이상 참여
+3건 이상 참여
 </small>
 </div>
 </div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/636/md_b186636000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/636/md_691d80d9d7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<전장연 지하철(역) 입법 문제 제기/항의 사태>에 함께 변화를 가져옵시다! (빠띠 캠페인즈)]]></title>
