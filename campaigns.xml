@@ -4,9 +4,32 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 11:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 12:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<전장연 지하철(역) 입법 문제 제기/항의 사태>에 함께 변화를 가져옵시다!]]></title>
+            <link>https://campaigns.kr/campaigns/638</link>
+            <guid>https://campaigns.kr/campaigns/638</guid>
+            <pubDate>Wed, 11 May 2022 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/638"><img src="/assets/default-image-e90f0dacf791ed1e55c3f4b2527de5135343b25897b7a66f6ccd43ff473420e5.png">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/638"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+&lt;전장연 지하철(역) 입법 문제 제기/항의 사태&gt;에 함께 변화를 가져옵시다!
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted count">
+0건 이상 참여
+</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://campaigns.kr/assets/default-image-e90f0dacf791ed1e55c3f4b2527de5135343b25897b7a66f6ccd43ff473420e5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제8회 지방선거 청년공약배달 「여기요!」]]></title>
             <link>https://campaigns.kr/campaigns/637</link>
@@ -475,29 +498,6 @@ No War in Ukraine
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/593/md_e5bb945c1a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[한살림 기후밥상챌린지👨‍🌾] 기후대화 약속하면 먹거리돌봄 무료 기부🎁! (소요시간: 약 30초)]]></title>
-            <link>https://campaigns.kr/campaigns/591</link>
-            <guid>https://campaigns.kr/campaigns/591</guid>
-            <pubDate>Tue, 22 Feb 2022 03:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/591"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/591/md_580236929f.png">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/591"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-[한살림 기후밥상챌린지👨‍🌾] 기후대화 약속하면 먹거리돌봄 무료 기부🎁! (소요시간: 약 30초)
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted count">
-1,000건 이상 참여
-</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/591/md_580236929f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
