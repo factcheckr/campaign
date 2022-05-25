@@ -4,7 +4,7 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 11:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 12:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,13 @@
 우리가 바라는 교육을 위해 교육감 후보자에게 전하는 한마디
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="1" class="progress-bar" role="progressbar" style="width: 1%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="2" class="progress-bar" role="progressbar" style="width: 2%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-9명 이상 참여
+10명 이상 참여
 </small>
-<small class="text-muted">1% 달성</small>
+<small class="text-muted">2% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/661/md_5ecee5643b.png" length="0" type="image/png"/>
@@ -48,7 +48,7 @@
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted count">
-4건 이상 참여
+5건 이상 참여
 </small>
 </div>
 </div>]]></content:encoded>
@@ -115,13 +115,13 @@
 교육감 선거에도 관심이 필요합니다!
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="2" class="progress-bar" role="progressbar" style="width: 2%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="3" class="progress-bar" role="progressbar" style="width: 3%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
-2명 이상 참여
+3명 이상 참여
 </small>
-<small class="text-muted">2% 달성</small>
+<small class="text-muted">3% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/651/md_328f63062d.jpg" length="0" type="image/jpg"/>
@@ -139,13 +139,13 @@
 🙆시민 희망 정책에 응답해주세요! 
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="progress-bar" role="progressbar" style="width: 50%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="52" class="progress-bar" role="progressbar" style="width: 52%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 20명 이상 참여
 </small>
-<small class="text-muted">50% 달성</small>
+<small class="text-muted">52% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/649/md_aa0b508ecb.png" length="0" type="image/png"/>
