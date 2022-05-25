@@ -4,9 +4,33 @@
         <title>빠띠 캠페인즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 바라는 교육을 위해 교육감 후보자에게 전하는 한마디]]></title>
+            <link>https://campaigns.kr/campaigns/661</link>
+            <guid>https://campaigns.kr/campaigns/661</guid>
+            <pubDate>Wed, 25 May 2022 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="card-image">
+<a href="/campaigns/661"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/661/md_5ecee5643b.png">
+</a></div>
+<div class="card-body">
+<a href="/campaigns/661"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
+우리가 바라는 교육을 위해 교육감 후보자에게 전하는 한마디
+</h5>
+</a><div class="progress my-2">
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="0" class="progress-bar" role="progressbar" style="width: 0%;"></div>
+</div>
+<div class="d-flex justify-content-between">
+<small class="text-muted">
+0명 이상 참여
+</small>
+<small class="text-muted">0% 달성</small>
+</div>
+</div>]]></content:encoded>
+            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/661/md_5ecee5643b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[선거도 안 했는데 이미 당선? 무투표 당선 선거제도, 변화의 목소리를 모아요!]]></title>
             <link>https://campaigns.kr/campaigns/655</link>
@@ -43,13 +67,13 @@
 쓰레기 줄이는 일회용 컵 보증금제를 지켜주세요!!
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="61" class="progress-bar" role="progressbar" style="width: 61%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="62" class="progress-bar" role="progressbar" style="width: 62%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 3,000명 이상 참여
 </small>
-<small class="text-muted">61% 달성</small>
+<small class="text-muted">62% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/654/md_a871e56700.JPG" length="0" type="image/JPG"/>
@@ -115,13 +139,13 @@
 🙆시민 희망 정책에 응답해주세요! 
 </h5>
 </a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="48" class="progress-bar" role="progressbar" style="width: 48%;"></div>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="50" class="progress-bar" role="progressbar" style="width: 50%;"></div>
 </div>
 <div class="d-flex justify-content-between">
 <small class="text-muted">
 20명 이상 참여
 </small>
-<small class="text-muted">48% 달성</small>
+<small class="text-muted">50% 달성</small>
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/649/md_aa0b508ecb.png" length="0" type="image/png"/>
@@ -473,29 +497,6 @@
 </div>
 </div>]]></content:encoded>
             <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/617/md_22209ad120.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시, 일상] 일상 속 행복을 찾아서 🌷]]></title>
-            <link>https://campaigns.kr/campaigns/614</link>
-            <guid>https://campaigns.kr/campaigns/614</guid>
-            <pubDate>Wed, 20 Apr 2022 05:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="card-image">
-<a href="/campaigns/614"><img src="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/614/md_88efb33a42.jpg">
-</a></div>
-<div class="card-body">
-<a href="/campaigns/614"><h5 class="card-title overflow-hidden text-dark" style="height: 3rem">
-[다시, 일상] 일상 속 행복을 찾아서 🌷
-</h5>
-</a><div class="progress my-2">
-<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="100" class="progress-bar" role="progressbar" style="width: 100%;"></div>
-</div>
-<div class="d-flex justify-content-between">
-<small class="text-muted count">
-10건 이상 참여
-</small>
-</div>
-</div>]]></content:encoded>
-            <enclosure url="https://curry-file.s3.amazonaws.com/uploads/campaign/cover_image/614/md_88efb33a42.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
